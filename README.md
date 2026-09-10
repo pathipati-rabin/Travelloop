@@ -116,7 +116,7 @@ Travelloop was developed as a travel planning project to provide users with a co
 
 ## 👨‍💻 Author
 
-**Vankayalapati Sasank**
+**Pathipati Rabin Krishna**
 
 BTech – Computer Science & Engineering (AI & ML)
 
